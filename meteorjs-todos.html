@@ -2,6 +2,13 @@
   <div class="container">
 		<header>
 			<h1>My Todo List</h1>
+			<label class="hide-completed">
+			  <input type="checkbox" checked="{{hideCompleted}}" />
+			  Hide Completed Tasks
+			</label>
+			<h1>Todo List ({{incompleteCount}})</h1>
+			<a href="http://www.kannansv.in">www.kannansv.in</a>
+
 				<form class="new-task">
 					<input type="text" name="text" placeholder="Type to add new tasks" />
 				</form>
@@ -14,7 +21,6 @@
     </ul>
   </div>
 	<footer>
-		www.kannansv.in
 	</footer>
 </body>
 
