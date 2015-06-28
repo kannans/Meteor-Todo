@@ -1,5 +1,5 @@
 # Meteor-Todo
-This is my  fu*** cross platform(web, ios, android) ToDo application using with Meteor and Mango.
+This is my  f* cross platform(web, ios, android) ToDo application using with Meteor and Mango.
 
 # Technologies
 
